@@ -1570,9 +1570,8 @@ input, select, textarea {
 		}
 
 		.image.featured {
-			float: left;
-			width: 600px;
-			height: 600px;
+			float: middle;
+			width: 100%;
 			object-fit: cover;
 			margin: 0 0 2em 0;
 		}
