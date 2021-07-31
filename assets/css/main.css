@@ -1305,7 +1305,7 @@ button:hover,
 input[type="button"]:active,
 button:active,
 .button:active {
-  background-color: #fff;
+  background-color: #000;
   top: 1px;
 }
 input[type="button"].large,
