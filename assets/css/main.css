@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome.min.css");
 
+/*
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -191,8 +197,8 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 1px #444;
-		border-top-color: rgba(0, 0, 0, 0.35);
+		border-top: solid 1px #FFF;
+		border-top-color: #ccc;
 		box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
 		height: 1px;
 		margin: 3em 0;
@@ -1684,7 +1690,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #00FFE0;
+		background-color: #00C1F0;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1695,7 +1701,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #88FFE0;
+			background-color: #00e1F0;
 			color: #fff !important;
 		}
 
@@ -1704,7 +1710,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #00FFE0;
+			background-color: #00C1F0;
 			top: 1px;
 		}
 
@@ -1870,12 +1876,12 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #333;
+			background-color: #323232;
 			text-shadow: 1px 1px 0px #000;
 		}
 
 		.wrapper.style3 {
-			background-color: #333;
+			background-color: #313131;
 			text-shadow: 1px 1px 0px #000;
 		}
 
